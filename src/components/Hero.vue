@@ -1,10 +1,12 @@
 <template>
-  <h1>My first time with Vue CLI!</h1>
+  <div>
+    <img src="../assets/banner.jpg" alt="">
+  </div>
 </template>
 
 <script>
 export default {
-  name: "MyTitle",
+  name: "MyHero",
 };
 </script>
 
